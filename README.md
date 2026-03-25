@@ -258,7 +258,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Built by [Code & Canvas](https://codeandcanvas.io) while delivering a SharePoint Modern intranet for a Fortune 500 client.
+Built by [Code&Canvas](https://codeandcanvas.io) while delivering a SharePoint Modern intranet for a Fortune 500 client.
 
 **Acknowledgments:**
 
