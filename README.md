@@ -215,6 +215,20 @@ spfx-delivery-ops/
 
 ---
 
+## Multi-Editor Support
+
+| Tool | Skill | MCP Analyzer |
+|------|-------|--------------|
+| Claude Code | Works natively (SKILL.md) | Works natively (.mcp.json) |
+| Cursor | Convert to .cursorrules | Works (MCP supported) |
+| GitHub Copilot | Convert to copilot-instructions.md | Not yet supported |
+| Windsurf | Convert to .windsurfrules | Works (MCP supported) |
+| VS Code + Continue | Convert to .continue/ config | Works (MCP supported) |
+
+The skill file is currently in Claude Code's SKILL.md format. The knowledge inside is editor-agnostic -- PRs welcome for native format conversions. The MCP analyzer works with any editor that supports the Model Context Protocol.
+
+---
+
 ## Contributing
 
 Contributions are welcome. This toolkit grew out of a real delivery -- if you've found patterns that work (or don't), we'd like to hear about them.
